@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Evolutionx86
 - 👀 I’m interested in geeky projects
 - 🌱 I’m currently learning Linux, Python and Raspberry Pi
-- 📫 How to reach me: private message
 
 <!---
 Evolutionx86/Evolutionx86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
